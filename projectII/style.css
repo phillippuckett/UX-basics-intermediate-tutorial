@@ -1,0 +1,51 @@
+html,body {
+    background-color: #CFCFCF;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 5%;
+}
+.whitebox1 {
+    /*outline: 1px solid red;*/
+    background: white;
+    padding: 5%;
+    margin: 5%;
+    overflow-y: auto;
+}
+.whitebox1 p {
+    text-align: left;
+    margin: 1%;
+    padding: 1%;
+}
+.red {
+    /*outline: 1px solid red;*/
+    background-color: darkred;
+    padding: 1% 10%;
+    margin: 1%;
+    float: left;
+
+        color: white;
+}
+.blue {
+    /*outline: 1px solid red;    */
+    background-color: blue;
+    padding: 1% 10%;
+    margin: 1%;
+    float: left;
+    
+    color: white;
+}
+.whitebox2 {
+    /*outline: 1px solid red;*/
+    background: white; 
+    padding: 5%;
+    margin: 5%;  
+}
+.imagebox {
+    /*outline: 1px solid red;*/
+    background-color: darkslategrey;
+    padding: 30% 10%;
+    
+    color: white;
+    text-align: center;
+}
